@@ -17,3 +17,7 @@
 
 # Avoid accidental upload of zip file
 *.zip
+
+# Avoid upload of readme template
+README-template.md
+
